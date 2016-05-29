@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HistoriaB
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HistoriaB\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HistoriaB()
+comment1.text=\r\n\ A\u00F1ade\ los\ botones\ e\ inicializa\ la\ bandera\ de\ personaje\ en\ 0\r\n
+comment2.params=
+comment2.target=void\ BotonesHisB()
+comment2.text=\r\n\ Agrega\ el\ boton\ jugar\ y\ regresar\ al\ fondo\ respectivo\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Si\ da\ clic\ en\ el\ boton\ de\ jugar\ bugs,\ manda\ una\ se\u00F1al\ para\ que\ se\ active\ el\ proximo\ fondo\r\n
+numComments=4
